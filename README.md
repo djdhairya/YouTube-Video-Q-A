@@ -52,3 +52,6 @@ This project is open-source and available under the MIT License.
 ## Disclaimer
 The accuracy of answers depends on the quality and completeness of the video transcript. If the transcript lacks sufficient details, the model may not provide an accurate response.
 
+![Screenshot 2025-03-06 202539](https://github.com/user-attachments/assets/ff4a03b2-df09-4175-ac7c-380799ff5ef3)
+
+
